@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="wall" x1="800" y1="0" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b5943"/>
+      <stop offset="1" stop-color="#252d29"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d8c29b"/>
+      <stop offset="1" stop-color="#9b805a"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#dfb77b"/>
+      <stop offset=".5" stop-color="#bf8b50"/>
+      <stop offset="1" stop-color="#8e6039"/>
+    </linearGradient>
+    <pattern id="grain" width="92" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 8c24-8 53 8 92 0M-15 20c25-7 48 5 78 0" stroke="#f0d39e" stroke-opacity=".12"/>
+    </pattern>
+    <filter id="soft" x="-.3" y="-.3" width="1.6" height="1.8">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <path fill="url(#wall)" d="M0 0h1600v900H0z"/>
+  <path fill="#b18c59" fill-opacity=".08" d="M900 0h700v900H900z"/>
+  <ellipse cx="1160" cy="650" fill="#e3bf83" fill-opacity=".15" rx="390" ry="190" filter="url(#soft)"/>
+  <path d="M912 162h494v426H912z" stroke="#dbc398" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M932 183h454v384H932z" stroke="#dbc398" stroke-opacity=".16"/>
+  <path d="M960 515c101-98 214-107 326-15 30 25 58 34 90 20" stroke="#b69362" stroke-opacity=".4" stroke-width="3"/>
+  <path d="M1002 457c93-61 179-60 257 9 32 27 68 32 108 11" stroke="#829184" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M973 479c44-14 73-12 101 6m171-76c32-17 70-20 108-9" stroke="#dbc398" stroke-opacity=".32" stroke-width="2"/>
+  <path d="M850 648h620l118 92H745z" fill="#3c352c" stroke="#c2a576" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M745 740h843v37H745z" fill="#796145" stroke="#d5b47e" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M796 778h45v92h-45zm697 0h45v92h-45z" fill="#554533"/>
+  <path d="M760 754h812" stroke="#e6cb97" stroke-opacity=".3" stroke-width="2"/>
+  <path d="M916 668h584l72 57H845z" fill="url(#paper)" fill-opacity=".88" stroke="#ecd7ad" stroke-opacity=".72" stroke-width="2"/>
+  <path d="M891 708h642M920 718h596" stroke="#705b43" stroke-opacity=".27"/>
+  <g transform="translate(1000 405) rotate(-13)">
+    <path d="m0 0 33-19h362l33 19-33 19H33z" fill="url(#wood)" stroke="#4d3624" stroke-width="4"/>
+    <path d="M33-19 48 0 33 19m362-38L380 0l15 19" stroke="#f0d19b" stroke-opacity=".75" stroke-width="3"/>
+    <path d="M48 0h332" stroke="#923f2d" stroke-width="5"/>
+    <path d="m0 0 33-19h362l33 19-33 19H33z" fill="url(#grain)"/>
+  </g>
+  <g transform="translate(1075 494) rotate(11)">
+    <path d="m0 0 26-15h290l26 15-26 15H26z" fill="url(#wood)" stroke="#4d3624" stroke-width="3"/>
+    <path d="M26-15 38 0 26 15m290-30L304 0l12 15" stroke="#f0d19b" stroke-opacity=".68" stroke-width="2"/>
+    <path d="M38 0h266" stroke="#34453d" stroke-width="4"/>
+  </g>
+  <path d="M83 82h438M83 96h238M83 110h342" stroke="#dbc398" stroke-opacity=".22"/>
+  <path d="M82 810h512" stroke="#dbc398" stroke-opacity=".24"/>
+  <circle cx="82" cy="82" r="4" fill="#c49758"/>
+  <circle cx="594" cy="810" r="4" fill="#c49758"/>
+</svg>

@@ -1,0 +1,1136 @@
+[
+  {
+    "number": 1,
+    "textTraditional": "求上乘得不退",
+    "textSimplified": "求上乘得不退",
+    "period": "现世"
+  },
+  {
+    "number": 2,
+    "textTraditional": "所求果現當證",
+    "textSimplified": "所求果现当证",
+    "period": "现世"
+  },
+  {
+    "number": 3,
+    "textTraditional": "求中乘得不退",
+    "textSimplified": "求中乘得不退",
+    "period": "现世"
+  },
+  {
+    "number": 4,
+    "textTraditional": "求下乘得不退",
+    "textSimplified": "求下乘得不退",
+    "period": "现世"
+  },
+  {
+    "number": 5,
+    "textTraditional": "求神通得成就",
+    "textSimplified": "求神通得成就",
+    "period": "现世"
+  },
+  {
+    "number": 6,
+    "textTraditional": "修四梵得成就",
+    "textSimplified": "修四梵得成就",
+    "period": "现世"
+  },
+  {
+    "number": 7,
+    "textTraditional": "修世禪得成就",
+    "textSimplified": "修世禅得成就",
+    "period": "现世"
+  },
+  {
+    "number": 8,
+    "textTraditional": "所欲受得妙戒",
+    "textSimplified": "所欲受得妙戒",
+    "period": "现世"
+  },
+  {
+    "number": 9,
+    "textTraditional": "所曾受得戒具",
+    "textSimplified": "所曾受得戒具",
+    "period": "现世"
+  },
+  {
+    "number": 10,
+    "textTraditional": "求上乘未住信",
+    "textSimplified": "求上乘未住信",
+    "period": "现世"
+  },
+  {
+    "number": 11,
+    "textTraditional": "求中乘未住信",
+    "textSimplified": "求中乘未住信",
+    "period": "现世"
+  },
+  {
+    "number": 12,
+    "textTraditional": "求下乘未住信",
+    "textSimplified": "求下乘未住信",
+    "period": "现世"
+  },
+  {
+    "number": 13,
+    "textTraditional": "所觀人為善友",
+    "textSimplified": "所观人为善友",
+    "period": "现世"
+  },
+  {
+    "number": 14,
+    "textTraditional": "隨所聞是正信",
+    "textSimplified": "随所闻是正信",
+    "period": "现世"
+  },
+  {
+    "number": 15,
+    "textTraditional": "所觀人為惡友",
+    "textSimplified": "所观人为恶友",
+    "period": "现世"
+  },
+  {
+    "number": 16,
+    "textTraditional": "隨所聞非正教",
+    "textSimplified": "随所闻非正教",
+    "period": "现世"
+  },
+  {
+    "number": 17,
+    "textTraditional": "所觀人有實德",
+    "textSimplified": "所观人有实德",
+    "period": "现世"
+  },
+  {
+    "number": 18,
+    "textTraditional": "所觀人無實德",
+    "textSimplified": "所观人无实德",
+    "period": "现世"
+  },
+  {
+    "number": 19,
+    "textTraditional": "所觀義不錯謬",
+    "textSimplified": "所观义不错谬",
+    "period": "现世"
+  },
+  {
+    "number": 20,
+    "textTraditional": "所觀義是錯謬",
+    "textSimplified": "所观义是错谬",
+    "period": "现世"
+  },
+  {
+    "number": 21,
+    "textTraditional": "有所誦不錯謬",
+    "textSimplified": "有所诵不错谬",
+    "period": "现世"
+  },
+  {
+    "number": 22,
+    "textTraditional": "有所誦是錯謬",
+    "textSimplified": "有所诵是错谬",
+    "period": "现世"
+  },
+  {
+    "number": 23,
+    "textTraditional": "所修行不錯謬",
+    "textSimplified": "所修行不错谬",
+    "period": "现世"
+  },
+  {
+    "number": 24,
+    "textTraditional": "所見聞是善相",
+    "textSimplified": "所见闻是善相",
+    "period": "现世"
+  },
+  {
+    "number": 25,
+    "textTraditional": "有所證為正實",
+    "textSimplified": "有所证为正实",
+    "period": "现世"
+  },
+  {
+    "number": 26,
+    "textTraditional": "有所學是錯謬",
+    "textSimplified": "有所学是错谬",
+    "period": "现世"
+  },
+  {
+    "number": 27,
+    "textTraditional": "所見聞非善相",
+    "textSimplified": "所见闻非善相",
+    "period": "现世"
+  },
+  {
+    "number": 28,
+    "textTraditional": "有所證非正法",
+    "textSimplified": "有所证非正法",
+    "period": "现世"
+  },
+  {
+    "number": 29,
+    "textTraditional": "有所獲邪神持",
+    "textSimplified": "有所获邪神持",
+    "period": "现世"
+  },
+  {
+    "number": 30,
+    "textTraditional": "所能說邪智辯",
+    "textSimplified": "所能说邪智辩",
+    "period": "现世"
+  },
+  {
+    "number": 31,
+    "textTraditional": "所玄知非人力",
+    "textSimplified": "所玄知非人力",
+    "period": "现世"
+  },
+  {
+    "number": 32,
+    "textTraditional": "應先習觀智道",
+    "textSimplified": "应先习观智道",
+    "period": "现世"
+  },
+  {
+    "number": 33,
+    "textTraditional": "應先習禪定道",
+    "textSimplified": "应先习禅定道",
+    "period": "现世"
+  },
+  {
+    "number": 34,
+    "textTraditional": "觀所學無障礙",
+    "textSimplified": "观所学无障碍",
+    "period": "现世"
+  },
+  {
+    "number": 35,
+    "textTraditional": "觀所學是所宜",
+    "textSimplified": "观所学是所宜",
+    "period": "现世"
+  },
+  {
+    "number": 36,
+    "textTraditional": "觀所學非所宜",
+    "textSimplified": "观所学非所宜",
+    "period": "现世"
+  },
+  {
+    "number": 37,
+    "textTraditional": "觀所學是宿習",
+    "textSimplified": "观所学是宿习",
+    "period": "现世"
+  },
+  {
+    "number": 38,
+    "textTraditional": "觀所學非宿習",
+    "textSimplified": "观所学非宿习",
+    "period": "现世"
+  },
+  {
+    "number": 39,
+    "textTraditional": "觀所學善增長",
+    "textSimplified": "观所学善增长",
+    "period": "现世"
+  },
+  {
+    "number": 40,
+    "textTraditional": "觀所學方便少",
+    "textSimplified": "观所学方便少",
+    "period": "现世"
+  },
+  {
+    "number": 41,
+    "textTraditional": "觀所學無進趣",
+    "textSimplified": "观所学无进趣",
+    "period": "现世"
+  },
+  {
+    "number": 42,
+    "textTraditional": "所求果現未得",
+    "textSimplified": "所求果现未得",
+    "period": "现世"
+  },
+  {
+    "number": 43,
+    "textTraditional": "求出家當得去",
+    "textSimplified": "求出家当得去",
+    "period": "现世"
+  },
+  {
+    "number": 44,
+    "textTraditional": "求聞法得教示",
+    "textSimplified": "求闻法得教示",
+    "period": "现世"
+  },
+  {
+    "number": 45,
+    "textTraditional": "求經卷得讀誦",
+    "textSimplified": "求经卷得读诵",
+    "period": "现世"
+  },
+  {
+    "number": 46,
+    "textTraditional": "觀所作是魔事",
+    "textSimplified": "观所作是魔事",
+    "period": "现世"
+  },
+  {
+    "number": 47,
+    "textTraditional": "觀所作事成就",
+    "textSimplified": "观所作事成就",
+    "period": "现世"
+  },
+  {
+    "number": 48,
+    "textTraditional": "觀所作事不成",
+    "textSimplified": "观所作事不成",
+    "period": "现世"
+  },
+  {
+    "number": 49,
+    "textTraditional": "求大富財盈滿",
+    "textSimplified": "求大富财盈满",
+    "period": "现世"
+  },
+  {
+    "number": 50,
+    "textTraditional": "求官位當得獲",
+    "textSimplified": "求官位当得获",
+    "period": "现世"
+  },
+  {
+    "number": 51,
+    "textTraditional": "求壽命得延年",
+    "textSimplified": "求寿命得延年",
+    "period": "现世"
+  },
+  {
+    "number": 52,
+    "textTraditional": "求世仙當得獲",
+    "textSimplified": "求世仙当得获",
+    "period": "现世"
+  },
+  {
+    "number": 53,
+    "textTraditional": "觀學問多所達",
+    "textSimplified": "观学问多所达",
+    "period": "现世"
+  },
+  {
+    "number": 54,
+    "textTraditional": "觀學問少所達",
+    "textSimplified": "观学问少所达",
+    "period": "现世"
+  },
+  {
+    "number": 55,
+    "textTraditional": "求師友得如意",
+    "textSimplified": "求师友得如意",
+    "period": "现世"
+  },
+  {
+    "number": 56,
+    "textTraditional": "求弟子得如意",
+    "textSimplified": "求弟子得如意",
+    "period": "现世"
+  },
+  {
+    "number": 57,
+    "textTraditional": "求父母得如意",
+    "textSimplified": "求父母得如意",
+    "period": "现世"
+  },
+  {
+    "number": 58,
+    "textTraditional": "求男女得如意",
+    "textSimplified": "求男女得如意",
+    "period": "现世"
+  },
+  {
+    "number": 59,
+    "textTraditional": "求妻妾得如意",
+    "textSimplified": "求妻妾得如意",
+    "period": "现世"
+  },
+  {
+    "number": 60,
+    "textTraditional": "求同伴得如意",
+    "textSimplified": "求同伴得如意",
+    "period": "现世"
+  },
+  {
+    "number": 61,
+    "textTraditional": "觀所慮得和合",
+    "textSimplified": "观所虑得和合",
+    "period": "现世"
+  },
+  {
+    "number": 62,
+    "textTraditional": "所觀人心懷恚",
+    "textSimplified": "所观人心怀恚",
+    "period": "现世"
+  },
+  {
+    "number": 63,
+    "textTraditional": "求無恨得歡喜",
+    "textSimplified": "求无恨得欢喜",
+    "period": "现世"
+  },
+  {
+    "number": 64,
+    "textTraditional": "求和合得如意",
+    "textSimplified": "求和合得如意",
+    "period": "现世"
+  },
+  {
+    "number": 65,
+    "textTraditional": "所觀人心歡喜",
+    "textSimplified": "所观人心欢喜",
+    "period": "现世"
+  },
+  {
+    "number": 66,
+    "textTraditional": "所思人得會見",
+    "textSimplified": "所思人得会见",
+    "period": "现世"
+  },
+  {
+    "number": 67,
+    "textTraditional": "所思人不復會",
+    "textSimplified": "所思人不复会",
+    "period": "现世"
+  },
+  {
+    "number": 68,
+    "textTraditional": "所請喚得來集",
+    "textSimplified": "所请唤得来集",
+    "period": "现世"
+  },
+  {
+    "number": 69,
+    "textTraditional": "所憎惡得離之",
+    "textSimplified": "所憎恶得离之",
+    "period": "现世"
+  },
+  {
+    "number": 70,
+    "textTraditional": "所愛敬得近之",
+    "textSimplified": "所爱敬得近之",
+    "period": "现世"
+  },
+  {
+    "number": 71,
+    "textTraditional": "觀欲聚得和集",
+    "textSimplified": "观欲聚得和集",
+    "period": "现世"
+  },
+  {
+    "number": 72,
+    "textTraditional": "觀欲聚不和集",
+    "textSimplified": "观欲聚不和集",
+    "period": "现世"
+  },
+  {
+    "number": 73,
+    "textTraditional": "所請喚不得來",
+    "textSimplified": "所请唤不得来",
+    "period": "现世"
+  },
+  {
+    "number": 74,
+    "textTraditional": "所期人必當至",
+    "textSimplified": "所期人必当至",
+    "period": "现世"
+  },
+  {
+    "number": 75,
+    "textTraditional": "所期人住不來",
+    "textSimplified": "所期人住不来",
+    "period": "现世"
+  },
+  {
+    "number": 76,
+    "textTraditional": "所觀人得安吉",
+    "textSimplified": "所观人得安吉",
+    "period": "现世"
+  },
+  {
+    "number": 77,
+    "textTraditional": "所觀人不安吉",
+    "textSimplified": "所观人不安吉",
+    "period": "现世"
+  },
+  {
+    "number": 78,
+    "textTraditional": "所觀人已無身",
+    "textSimplified": "所观人已无身",
+    "period": "现世"
+  },
+  {
+    "number": 79,
+    "textTraditional": "所望見得覩之",
+    "textSimplified": "所望见得覩之",
+    "period": "现世"
+  },
+  {
+    "number": 80,
+    "textTraditional": "所求覓得見之",
+    "textSimplified": "所求觅得见之",
+    "period": "现世"
+  },
+  {
+    "number": 81,
+    "textTraditional": "求所聞得吉語",
+    "textSimplified": "求所闻得吉语",
+    "period": "现世"
+  },
+  {
+    "number": 82,
+    "textTraditional": "所求見不如意",
+    "textSimplified": "所求见不如意",
+    "period": "现世"
+  },
+  {
+    "number": 83,
+    "textTraditional": "觀所疑即為實",
+    "textSimplified": "观所疑即为实",
+    "period": "现世"
+  },
+  {
+    "number": 84,
+    "textTraditional": "觀所疑為不實",
+    "textSimplified": "观所疑为不实",
+    "period": "现世"
+  },
+  {
+    "number": 85,
+    "textTraditional": "所觀人不和合",
+    "textSimplified": "所观人不和合",
+    "period": "现世"
+  },
+  {
+    "number": 86,
+    "textTraditional": "求佛事當得獲",
+    "textSimplified": "求佛事当得获",
+    "period": "现世"
+  },
+  {
+    "number": 87,
+    "textTraditional": "求供具當得獲",
+    "textSimplified": "求供具当得获",
+    "period": "现世"
+  },
+  {
+    "number": 88,
+    "textTraditional": "求資生得如意",
+    "textSimplified": "求资生得如意",
+    "period": "现世"
+  },
+  {
+    "number": 89,
+    "textTraditional": "求資生少得獲",
+    "textSimplified": "求资生少得获",
+    "period": "现世"
+  },
+  {
+    "number": 90,
+    "textTraditional": "有所求皆當得",
+    "textSimplified": "有所求皆当得",
+    "period": "现世"
+  },
+  {
+    "number": 91,
+    "textTraditional": "有所求皆不得",
+    "textSimplified": "有所求皆不得",
+    "period": "现世"
+  },
+  {
+    "number": 92,
+    "textTraditional": "有所求少得獲",
+    "textSimplified": "有所求少得获",
+    "period": "现世"
+  },
+  {
+    "number": 93,
+    "textTraditional": "有所求得如意",
+    "textSimplified": "有所求得如意",
+    "period": "现世"
+  },
+  {
+    "number": 94,
+    "textTraditional": "有所求速當得",
+    "textSimplified": "有所求速当得",
+    "period": "现世"
+  },
+  {
+    "number": 95,
+    "textTraditional": "有所求久當得",
+    "textSimplified": "有所求久当得",
+    "period": "现世"
+  },
+  {
+    "number": 96,
+    "textTraditional": "有所求而損失",
+    "textSimplified": "有所求而损失",
+    "period": "现世"
+  },
+  {
+    "number": 97,
+    "textTraditional": "有所求得吉利",
+    "textSimplified": "有所求得吉利",
+    "period": "现世"
+  },
+  {
+    "number": 98,
+    "textTraditional": "有所求而受苦",
+    "textSimplified": "有所求而受苦",
+    "period": "现世"
+  },
+  {
+    "number": 99,
+    "textTraditional": "觀所失求當得",
+    "textSimplified": "观所失求当得",
+    "period": "现世"
+  },
+  {
+    "number": 100,
+    "textTraditional": "當所失永不得",
+    "textSimplified": "当所失永不得",
+    "period": "现世"
+  },
+  {
+    "number": 101,
+    "textTraditional": "觀所失自還得",
+    "textSimplified": "观所失自还得",
+    "period": "现世"
+  },
+  {
+    "number": 102,
+    "textTraditional": "求離厄得脫難",
+    "textSimplified": "求离厄得脱难",
+    "period": "现世"
+  },
+  {
+    "number": 103,
+    "textTraditional": "求離病得除愈",
+    "textSimplified": "求离病得除愈",
+    "period": "现世"
+  },
+  {
+    "number": 104,
+    "textTraditional": "觀所去無障礙",
+    "textSimplified": "观所去无障碍",
+    "period": "现世"
+  },
+  {
+    "number": 105,
+    "textTraditional": "觀所去有障礙",
+    "textSimplified": "观所去有障碍",
+    "period": "现世"
+  },
+  {
+    "number": 106,
+    "textTraditional": "觀所住得安止",
+    "textSimplified": "观所住得安止",
+    "period": "现世"
+  },
+  {
+    "number": 107,
+    "textTraditional": "觀所住不得安",
+    "textSimplified": "观所住不得安",
+    "period": "现世"
+  },
+  {
+    "number": 108,
+    "textTraditional": "所向處得安快",
+    "textSimplified": "所向处得安快",
+    "period": "现世"
+  },
+  {
+    "number": 109,
+    "textTraditional": "所向處有厄難",
+    "textSimplified": "所向处有厄难",
+    "period": "现世"
+  },
+  {
+    "number": 110,
+    "textTraditional": "所向處為魔網",
+    "textSimplified": "所向处为魔网",
+    "period": "现世"
+  },
+  {
+    "number": 111,
+    "textTraditional": "所向處難開化",
+    "textSimplified": "所向处难开化",
+    "period": "现世"
+  },
+  {
+    "number": 112,
+    "textTraditional": "所向處可開化",
+    "textSimplified": "所向处可开化",
+    "period": "现世"
+  },
+  {
+    "number": 113,
+    "textTraditional": "所向處自獲利",
+    "textSimplified": "所向处自获利",
+    "period": "现世"
+  },
+  {
+    "number": 114,
+    "textTraditional": "所遊路無惱害",
+    "textSimplified": "所游路无恼害",
+    "period": "现世"
+  },
+  {
+    "number": 115,
+    "textTraditional": "所遊路有惱害",
+    "textSimplified": "所游路有恼害",
+    "period": "现世"
+  },
+  {
+    "number": 116,
+    "textTraditional": "君民惡饑饉起",
+    "textSimplified": "君民恶饥馑起",
+    "period": "现世"
+  },
+  {
+    "number": 117,
+    "textTraditional": "君民惡多疾疫",
+    "textSimplified": "君民恶多疾疫",
+    "period": "现世"
+  },
+  {
+    "number": 118,
+    "textTraditional": "君民好國豐樂",
+    "textSimplified": "君民好国丰乐",
+    "period": "现世"
+  },
+  {
+    "number": 119,
+    "textTraditional": "君無道國災亂",
+    "textSimplified": "君无道国灾乱",
+    "period": "现世"
+  },
+  {
+    "number": 120,
+    "textTraditional": "君修德災亂滅",
+    "textSimplified": "君修德灾乱灭",
+    "period": "现世"
+  },
+  {
+    "number": 121,
+    "textTraditional": "君行惡國將破",
+    "textSimplified": "君行恶国将破",
+    "period": "现世"
+  },
+  {
+    "number": 122,
+    "textTraditional": "君修善國還立",
+    "textSimplified": "君修善国还立",
+    "period": "现世"
+  },
+  {
+    "number": 123,
+    "textTraditional": "觀所避得度難",
+    "textSimplified": "观所避得度难",
+    "period": "现世"
+  },
+  {
+    "number": 124,
+    "textTraditional": "觀所避不脫難",
+    "textSimplified": "观所避不脱难",
+    "period": "现世"
+  },
+  {
+    "number": 125,
+    "textTraditional": "所住處眾安隱",
+    "textSimplified": "所住处众安隐",
+    "period": "现世"
+  },
+  {
+    "number": 126,
+    "textTraditional": "所住處有障難",
+    "textSimplified": "所住处有障难",
+    "period": "现世"
+  },
+  {
+    "number": 127,
+    "textTraditional": "所依聚眾不安",
+    "textSimplified": "所依聚众不安",
+    "period": "现世"
+  },
+  {
+    "number": 128,
+    "textTraditional": "閑靜處無諸難",
+    "textSimplified": "闲静处无诸难",
+    "period": "现世"
+  },
+  {
+    "number": 129,
+    "textTraditional": "觀怪異無損害",
+    "textSimplified": "观怪异无损害",
+    "period": "现世"
+  },
+  {
+    "number": 130,
+    "textTraditional": "觀怪異有損害",
+    "textSimplified": "观怪异有损害",
+    "period": "现世"
+  },
+  {
+    "number": 131,
+    "textTraditional": "觀怪異精進安",
+    "textSimplified": "观怪异精进安",
+    "period": "现世"
+  },
+  {
+    "number": 132,
+    "textTraditional": "觀所夢無損害",
+    "textSimplified": "观所梦无损害",
+    "period": "现世"
+  },
+  {
+    "number": 133,
+    "textTraditional": "觀所夢有所損",
+    "textSimplified": "观所梦有所损",
+    "period": "现世"
+  },
+  {
+    "number": 134,
+    "textTraditional": "觀所夢精進安",
+    "textSimplified": "观所梦精进安",
+    "period": "现世"
+  },
+  {
+    "number": 135,
+    "textTraditional": "觀所夢為吉利",
+    "textSimplified": "观所梦为吉利",
+    "period": "现世"
+  },
+  {
+    "number": 136,
+    "textTraditional": "觀障亂速得離",
+    "textSimplified": "观障乱速得离",
+    "period": "现世"
+  },
+  {
+    "number": 137,
+    "textTraditional": "觀障亂漸得離",
+    "textSimplified": "观障乱渐得离",
+    "period": "现世"
+  },
+  {
+    "number": 138,
+    "textTraditional": "觀障亂不能離",
+    "textSimplified": "观障乱不能离",
+    "period": "现世"
+  },
+  {
+    "number": 139,
+    "textTraditional": "觀障亂一心除",
+    "textSimplified": "观障乱一心除",
+    "period": "现世"
+  },
+  {
+    "number": 140,
+    "textTraditional": "觀所難速得脫",
+    "textSimplified": "观所难速得脱",
+    "period": "现世"
+  },
+  {
+    "number": 141,
+    "textTraditional": "觀所難久得脫",
+    "textSimplified": "观所难久得脱",
+    "period": "现世"
+  },
+  {
+    "number": 142,
+    "textTraditional": "觀所難受哀惱",
+    "textSimplified": "观所难受哀恼",
+    "period": "现世"
+  },
+  {
+    "number": 143,
+    "textTraditional": "觀所難精進脫",
+    "textSimplified": "观所难精进脱",
+    "period": "现世"
+  },
+  {
+    "number": 144,
+    "textTraditional": "觀所難命當盡",
+    "textSimplified": "观所难命当尽",
+    "period": "现世"
+  },
+  {
+    "number": 145,
+    "textTraditional": "觀所患大不調",
+    "textSimplified": "观所患大不调",
+    "period": "现世"
+  },
+  {
+    "number": 146,
+    "textTraditional": "觀所患非人惱",
+    "textSimplified": "观所患非人恼",
+    "period": "现世"
+  },
+  {
+    "number": 147,
+    "textTraditional": "觀所患合非人",
+    "textSimplified": "观所患合非人",
+    "period": "现世"
+  },
+  {
+    "number": 148,
+    "textTraditional": "觀所患可療治",
+    "textSimplified": "观所患可疗治",
+    "period": "现世"
+  },
+  {
+    "number": 149,
+    "textTraditional": "觀所患難療治",
+    "textSimplified": "观所患难疗治",
+    "period": "现世"
+  },
+  {
+    "number": 150,
+    "textTraditional": "觀所患精進差",
+    "textSimplified": "观所患精进差",
+    "period": "现世"
+  },
+  {
+    "number": 151,
+    "textTraditional": "觀所患久長苦",
+    "textSimplified": "观所患久长苦",
+    "period": "现世"
+  },
+  {
+    "number": 152,
+    "textTraditional": "觀所患自當差",
+    "textSimplified": "观所患自当差",
+    "period": "现世"
+  },
+  {
+    "number": 153,
+    "textTraditional": "所向醫堪能治",
+    "textSimplified": "所向医堪能治",
+    "period": "现世"
+  },
+  {
+    "number": 154,
+    "textTraditional": "觀所療是對治",
+    "textSimplified": "观所疗是对治",
+    "period": "现世"
+  },
+  {
+    "number": 155,
+    "textTraditional": "所服藥當得力",
+    "textSimplified": "所服药当得力",
+    "period": "现世"
+  },
+  {
+    "number": 156,
+    "textTraditional": "觀所患得除愈",
+    "textSimplified": "观所患得除愈",
+    "period": "现世"
+  },
+  {
+    "number": 157,
+    "textTraditional": "所向醫不能治",
+    "textSimplified": "所向医不能治",
+    "period": "现世"
+  },
+  {
+    "number": 158,
+    "textTraditional": "觀所療非對治",
+    "textSimplified": "观所疗非对治",
+    "period": "现世"
+  },
+  {
+    "number": 159,
+    "textTraditional": "所服藥不得力",
+    "textSimplified": "所服药不得力",
+    "period": "现世"
+  },
+  {
+    "number": 160,
+    "textTraditional": "觀所患命當盡",
+    "textSimplified": "观所患命当尽",
+    "period": "现世"
+  },
+  {
+    "number": 161,
+    "textTraditional": "從地獄道中來",
+    "textSimplified": "从地狱道中来",
+    "period": "过去世"
+  },
+  {
+    "number": 162,
+    "textTraditional": "從畜生道中來",
+    "textSimplified": "从畜生道中来",
+    "period": "过去世"
+  },
+  {
+    "number": 163,
+    "textTraditional": "從餓鬼道中來",
+    "textSimplified": "从饿鬼道中来",
+    "period": "过去世"
+  },
+  {
+    "number": 164,
+    "textTraditional": "從阿修羅道中來",
+    "textSimplified": "从阿修罗道中来",
+    "period": "过去世"
+  },
+  {
+    "number": 165,
+    "textTraditional": "從人道中而來",
+    "textSimplified": "从人道中而来",
+    "period": "过去世"
+  },
+  {
+    "number": 166,
+    "textTraditional": "從天道中而來",
+    "textSimplified": "从天道中而来",
+    "period": "过去世"
+  },
+  {
+    "number": 167,
+    "textTraditional": "從在家中而來",
+    "textSimplified": "从在家中而来",
+    "period": "过去世"
+  },
+  {
+    "number": 168,
+    "textTraditional": "從出家中而來",
+    "textSimplified": "从出家中而来",
+    "period": "过去世"
+  },
+  {
+    "number": 169,
+    "textTraditional": "曾值佛供養來",
+    "textSimplified": "曾值佛供养来",
+    "period": "过去世"
+  },
+  {
+    "number": 170,
+    "textTraditional": "曾親供養賢聖來",
+    "textSimplified": "曾亲供养贤圣来",
+    "period": "过去世"
+  },
+  {
+    "number": 171,
+    "textTraditional": "曾得聞深法來",
+    "textSimplified": "曾得闻深法来",
+    "period": "过去世"
+  },
+  {
+    "number": 172,
+    "textTraditional": "捨身已入地獄",
+    "textSimplified": "舍身已入地狱",
+    "period": "未来世"
+  },
+  {
+    "number": 173,
+    "textTraditional": "捨身已作畜生",
+    "textSimplified": "舍身已作畜生",
+    "period": "未来世"
+  },
+  {
+    "number": 174,
+    "textTraditional": "捨身已作餓鬼",
+    "textSimplified": "舍身已作饿鬼",
+    "period": "未来世"
+  },
+  {
+    "number": 175,
+    "textTraditional": "捨身已作阿修羅",
+    "textSimplified": "舍身已作阿修罗",
+    "period": "未来世"
+  },
+  {
+    "number": 176,
+    "textTraditional": "捨身已生人道",
+    "textSimplified": "舍身已生人道",
+    "period": "未来世"
+  },
+  {
+    "number": 177,
+    "textTraditional": "捨身已為人王",
+    "textSimplified": "舍身已为人王",
+    "period": "未来世"
+  },
+  {
+    "number": 178,
+    "textTraditional": "捨身已生天道",
+    "textSimplified": "舍身已生天道",
+    "period": "未来世"
+  },
+  {
+    "number": 179,
+    "textTraditional": "捨身已為天王",
+    "textSimplified": "舍身已为天王",
+    "period": "未来世"
+  },
+  {
+    "number": 180,
+    "textTraditional": "捨身已聞深法",
+    "textSimplified": "舍身已闻深法",
+    "period": "未来世"
+  },
+  {
+    "number": 181,
+    "textTraditional": "捨身已得出家",
+    "textSimplified": "舍身已得出家",
+    "period": "未来世"
+  },
+  {
+    "number": 182,
+    "textTraditional": "捨身已值聖僧",
+    "textSimplified": "舍身已值圣僧",
+    "period": "未来世"
+  },
+  {
+    "number": 183,
+    "textTraditional": "捨身已生兜率天",
+    "textSimplified": "舍身已生兜率天",
+    "period": "未来世"
+  },
+  {
+    "number": 184,
+    "textTraditional": "捨身已生淨佛國",
+    "textSimplified": "舍身已生净佛国",
+    "period": "未来世"
+  },
+  {
+    "number": 185,
+    "textTraditional": "捨身已尋見佛",
+    "textSimplified": "舍身已寻见佛",
+    "period": "未来世"
+  },
+  {
+    "number": 186,
+    "textTraditional": "捨身已住下乘",
+    "textSimplified": "舍身已住下乘",
+    "period": "未来世"
+  },
+  {
+    "number": 187,
+    "textTraditional": "捨身已住中乘",
+    "textSimplified": "舍身已住中乘",
+    "period": "未来世"
+  },
+  {
+    "number": 188,
+    "textTraditional": "捨身已獲果證",
+    "textSimplified": "舍身已获果证",
+    "period": "未来世"
+  },
+  {
+    "number": 189,
+    "textTraditional": "捨身已住上乘",
+    "textSimplified": "舍身已住上乘",
+    "period": "未来世"
+  }
+]
